@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80">
+  <rect width="120" height="80" rx="12" fill="#0f172a" />
+  <g transform="translate(18,20)">
+    <rect x="0" y="18" width="8" height="28" rx="2" fill="#f59e0b" />
+    <rect x="14" y="8" width="8" height="38" rx="2" fill="#84cc16" />
+    <rect x="28" y="0" width="8" height="46" rx="2" fill="#60a5fa" />
+    <rect x="42" y="12" width="8" height="34" rx="2" fill="#94a3b8" />
+  </g>
+  <text x="14" y="72" fill="#cbd5e1" font-family="sans-serif" font-size="8">Live analytics</text>
+</svg>
